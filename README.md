@@ -1,5 +1,5 @@
 # First-C-Programme-with-If-and-Else-Conditions
-Here is my first C++ Programme with If and Else Ladder. Kindly have a look and suggest me if anything.......
+Here is my first C++ Programme with If and Else Ladder. Kindly have a look and suggest me how can i use **Break** statements in this code.......
 
 #include<iostream>
 
